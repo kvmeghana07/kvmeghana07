@@ -1,13 +1,9 @@
-# Hi there, I'm Meghana! 👋
+# Hi everyone, I'm Meghana! 👋
 
 ### 👩‍💻 About Me
 I am an engineering student passionate about solving problems through code and exploring new technologies. 
 
-
-### 🛠️ Tech Stack & Tools
-
- Here are the languages and tools I work with daily:
-
+ 
 
 ### 💻 Tech Stack:
 
