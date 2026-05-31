@@ -3,8 +3,8 @@
 ### 👩‍💻 About Me:
 I am an engineering student passionate about solving problems through code and exploring new technologies. 
 
-##Socials:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+Socials:
+\n![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### 💻 Tech Stack:
 
